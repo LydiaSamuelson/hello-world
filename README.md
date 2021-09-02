@@ -4,8 +4,7 @@
 <meta charset="utf-8">
 <title>Lydia Samuelson</title>
 <link type="text/css" href="https://github.com/LydiaSamuelson/style.css.git" rel="stylesheet">
-</head>
-<style> 
+	<style> 
 	body{
 	background-color: #687864;
 	color: #F7F9FB;
@@ -147,6 +146,8 @@ Does that come down to original padding again?*/
 	}
 		
 </style>
+</head>
+
 <body>
 
 <header>
