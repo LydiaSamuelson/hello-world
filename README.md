@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Lydia Samuelson</title>
-<link href="style.css" rel="stylesheet">
+<link href="https://github.com/LydiaSamuelson/style.css.git" rel="stylesheet">
 </head>
 
 <body>
